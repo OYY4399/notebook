@@ -11,6 +11,13 @@ export const navbarZh: NavbarConfig = [
           '/notebook/markdown.md'
         ]
       },
+      {
+        text: 'CSS预处理器',
+        children: [
+          '/notebook/less.md',
+          '/notebook/scss.md'
+        ]
+      },
     ]
   },
 ]

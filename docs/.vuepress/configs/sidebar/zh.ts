@@ -9,5 +9,13 @@ export const sidebarZh: SidebarConfig = {
         '/notebook/markdown.md'
       ]
     },
+    {
+      text: 'CSS预处理器',
+      collapsible: true,
+      children: [
+        '/notebook/less.md',
+        '/notebook/scss.md'
+      ]
+    },
   ]
 }
