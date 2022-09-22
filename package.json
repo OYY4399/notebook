@@ -1,0 +1,27 @@
+{
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "name": "notebook",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.51"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@vuepress/bundler-vite": "workspace:*",
+    "@vuepress/bundler-webpack": "workspace:*",
+    "@vuepress/cli": "workspace:*",
+    "@vuepress/client": "workspace:*",
+    "@vuepress/core": "workspace:*",
+    "@vuepress/plugin-docsearch": "workspace:*",
+    "@vuepress/plugin-google-analytics": "workspace:*",
+    "@vuepress/plugin-register-components": "workspace:*",
+    "@vuepress/plugin-shiki": "workspace:*",
+    "@vuepress/theme-default": "workspace:*",
+    "@vuepress/utils": "workspace:*",
+    "sass-loader": "^13.0.2",
+    "serve": "^13.0.2",
+    "vue": "^3.2.37"
+  }
+}
