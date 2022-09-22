@@ -18,6 +18,14 @@ export const navbarZh: NavbarConfig = [
           '/notebook/scss.md'
         ]
       },
+      {
+        text: 'NPM包管理器',
+        children: [
+          '/notebook/npm.md',
+          '/notebook/yarn.md',
+          '/notebook/pnpm.md'
+        ]
+      },
     ]
   },
 ]

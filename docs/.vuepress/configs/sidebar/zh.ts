@@ -17,5 +17,14 @@ export const sidebarZh: SidebarConfig = {
         '/notebook/scss.md'
       ]
     },
+    {
+      text: 'NPM包管理器',
+      collapsible: true,
+      children: [
+        '/notebook/npm.md',
+        '/notebook/yarn.md',
+        '/notebook/pnpm.md'
+      ]
+    },
   ]
 }
