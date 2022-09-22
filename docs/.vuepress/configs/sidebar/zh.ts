@@ -26,5 +26,12 @@ export const sidebarZh: SidebarConfig = {
         '/notebook/pnpm.md'
       ]
     },
+    {
+      text: 'Git',
+      collapsible: true,
+      children: [
+        '/notebook/git.md',
+      ]
+    },
   ]
 }

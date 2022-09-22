@@ -26,6 +26,12 @@ export const navbarZh: NavbarConfig = [
           '/notebook/pnpm.md'
         ]
       },
+      {
+        text: 'Git',
+        children: [
+          '/notebook/git.md',
+        ]
+      },
     ]
   },
 ]
