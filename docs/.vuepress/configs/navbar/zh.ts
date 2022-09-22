@@ -32,6 +32,12 @@ export const navbarZh: NavbarConfig = [
           '/notebook/git.md',
         ]
       },
+      {
+        text: 'Linux',
+        children: [
+          '/notebook/linux.md',
+        ]
+      },
     ]
   },
 ]

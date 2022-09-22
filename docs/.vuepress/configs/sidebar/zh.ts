@@ -33,5 +33,12 @@ export const sidebarZh: SidebarConfig = {
         '/notebook/git.md',
       ]
     },
+    {
+      text: 'Linux',
+      collapsible: true,
+      children: [
+        '/notebook/linux.md',
+      ]
+    },
   ]
 }
