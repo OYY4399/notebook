@@ -40,5 +40,14 @@ export const sidebarZh: SidebarConfig = {
         '/notebook/linux.md',
       ]
     },
+  ],
+  '/bug/': [
+    {
+      text: 'JavaScript',
+      collapsible: true,
+      children: [
+        '/bug/javascript.md',
+      ]
+    },
   ]
 }

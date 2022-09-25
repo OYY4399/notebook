@@ -40,4 +40,15 @@ export const navbarZh: NavbarConfig = [
       },
     ]
   },
+  {
+    text: 'Bug',
+    children: [
+      {
+        text: 'JavaScript',
+        children: [
+          '/bug/javascript.md'
+        ]
+      },
+    ]
+  },
 ]
