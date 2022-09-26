@@ -38,6 +38,12 @@ export const navbarZh: NavbarConfig = [
           '/notebook/linux.md',
         ]
       },
+      {
+        text: 'Charles抓包',
+        children: [
+          '/notebook/charles.md',
+        ]
+      },
     ]
   },
   {

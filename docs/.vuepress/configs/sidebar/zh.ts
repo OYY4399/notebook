@@ -40,6 +40,13 @@ export const sidebarZh: SidebarConfig = {
         '/notebook/linux.md',
       ]
     },
+    {
+      text: 'Charles抓包',
+      collapsible: true,
+      children: [
+        '/notebook/charles.md',
+      ]
+    },
   ],
   '/bug/': [
     {
