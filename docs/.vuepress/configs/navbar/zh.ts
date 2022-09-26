@@ -55,6 +55,12 @@ export const navbarZh: NavbarConfig = [
           '/bug/javascript.md'
         ]
       },
+      {
+        text: '微信小程序',
+        children: [
+          '/bug/miniapp.md'
+        ]
+      },
     ]
   },
 ]

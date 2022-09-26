@@ -56,5 +56,12 @@ export const sidebarZh: SidebarConfig = {
         '/bug/javascript.md',
       ]
     },
+    {
+      text: '微信小程序',
+      collapsible: true,
+      children: [
+        '/bug/miniapp.md',
+      ]
+    },
   ]
 }
