@@ -36,6 +36,7 @@ export const navbarZh: NavbarConfig = [
         text: 'Linux',
         children: [
           '/notebook/linux.md',
+          '/notebook/vim.md'
         ]
       },
       {

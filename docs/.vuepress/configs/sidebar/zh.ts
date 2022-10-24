@@ -38,6 +38,7 @@ export const sidebarZh: SidebarConfig = {
       collapsible: true,
       children: [
         '/notebook/linux.md',
+        '/notebook/vim.md'
       ]
     },
     {
