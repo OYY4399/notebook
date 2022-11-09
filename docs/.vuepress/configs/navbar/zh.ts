@@ -64,4 +64,15 @@ export const navbarZh: NavbarConfig = [
       },
     ]
   },
+  {
+    text: '前端技巧',
+    children: [
+      {
+        text: '浏览器',
+        children: [
+          '/skill/chrome.md'
+        ]
+      }
+    ]
+  },
 ]

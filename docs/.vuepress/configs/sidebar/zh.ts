@@ -64,5 +64,14 @@ export const sidebarZh: SidebarConfig = {
         '/bug/miniapp.md',
       ]
     },
+  ],
+  '/skill/': [
+    {
+      text: '浏览器',
+      collapsible: true,
+      children: [
+        '/skill/chrome.md',
+      ]
+    }
   ]
 }
